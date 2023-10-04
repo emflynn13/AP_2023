@@ -3,3 +3,4 @@
 
 "Change added in dazzling_feature to provoke conflict."
 "New change"
+"Change made as collaborator."
